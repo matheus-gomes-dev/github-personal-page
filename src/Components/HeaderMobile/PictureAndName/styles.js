@@ -7,7 +7,7 @@ import profilePic from 'imgs/profile.jpeg';
 export const PictureAndNameWrapper = styled.div`
   display: flex;
   align-items: center;
-  justify-content: right;
+  justify-content: left;
   margin-left: 15px;
   width: 100%;
 `;
