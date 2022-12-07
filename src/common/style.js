@@ -11,4 +11,5 @@ const scaleFrom0 = keyframes`
 
 export const ContentSection = styled.div`
     animation: 0.5s ${scaleFrom0} ease-out;
+    border: 1px solid transparent;
 `;
